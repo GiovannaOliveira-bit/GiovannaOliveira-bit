@@ -5,10 +5,6 @@
 - Interessada em programação e desenvolvimento web.
 - Buscando aprender e evoluir na área de TI.
 
-<div>
-  <a href="https://github.com/GiovannaOliveira-bit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovannaOliveira-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div>
   <a href="https://www.youtube.com/channel/UC_uuuZbY0A$CViNzvc-Q" target="_blank">
